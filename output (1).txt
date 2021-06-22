@@ -1,1 +1,0 @@
-﻿This is an acceptable version of Python, version 3.9.
